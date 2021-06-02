@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 💬 Ask me about my experience as a field biologist
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: if you were to take out all of your arteries and veins and line them up, you would die. 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufasa85&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Rufasa85/Rufasa85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
